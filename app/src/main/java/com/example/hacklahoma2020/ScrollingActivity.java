@@ -49,3 +49,5 @@ public class ScrollingActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 }
+
+// Adding a test comment and testing if Dan can commit
